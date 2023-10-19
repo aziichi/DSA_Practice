@@ -8,7 +8,6 @@ Welcome to the DSA_Practice repository! This repository is a collection of data 
 - [Folder Structure](#folder-structure)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -71,8 +70,3 @@ To contribute, follow these steps:
 
 6. Your contribution will be reviewed, and once approved, it will be merged into the repository.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content, but please provide proper attribution and don't forget to star the repository if you find it helpful!
-
-Happy coding and enjoy your journey into the world of data structures and algorithms!
